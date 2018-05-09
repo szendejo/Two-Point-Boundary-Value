@@ -1,0 +1,6 @@
+C:\Users\BMo\Documents\CSCI 3321 - Numerical Methods\Assignment4\TwoPointBoundaryValue\TwoPointBoundaryValue\bin\Debug\TwoPointBoundaryValue.exe.config
+C:\Users\BMo\Documents\CSCI 3321 - Numerical Methods\Assignment4\TwoPointBoundaryValue\TwoPointBoundaryValue\bin\Debug\TwoPointBoundaryValue.exe
+C:\Users\BMo\Documents\CSCI 3321 - Numerical Methods\Assignment4\TwoPointBoundaryValue\TwoPointBoundaryValue\bin\Debug\TwoPointBoundaryValue.pdb
+C:\Users\BMo\Documents\CSCI 3321 - Numerical Methods\Assignment4\TwoPointBoundaryValue\TwoPointBoundaryValue\obj\Debug\TwoPointBoundaryValue.csprojResolveAssemblyReference.cache
+C:\Users\BMo\Documents\CSCI 3321 - Numerical Methods\Assignment4\TwoPointBoundaryValue\TwoPointBoundaryValue\obj\Debug\TwoPointBoundaryValue.exe
+C:\Users\BMo\Documents\CSCI 3321 - Numerical Methods\Assignment4\TwoPointBoundaryValue\TwoPointBoundaryValue\obj\Debug\TwoPointBoundaryValue.pdb
